@@ -12,4 +12,4 @@ Enterprise Architecture on SaaS Driving School
 ## Viewpoints
 * [Organization Viewpoint — Driving School SaaS Platform](https://medium.com/p/2e22fcc54fd5)
 * [Leveraging Enterprise Architecture: Using ArchiMate to Drive the Mission-Values-Vision Viewpoint](https://medium.com/@seesiva/leveraging-enterprise-architecture-using-archimate-to-drive-the-mission-values-vision-viewpoint-2066397dba74)
-* [Driving Excellence: A TOGAF-Based Motivation Viewpoint for a SaaS Platform Founder] (https://seesiva.medium.com/driving-excellence-a-togaf-based-motivation-viewpoint-for-a-saas-platform-founder-bbe16ee11dfe)
+* [Driving Excellence: A TOGAF-Based Motivation Viewpoint for a SaaS Platform Founder](https://seesiva.medium.com/driving-excellence-a-togaf-based-motivation-viewpoint-for-a-saas-platform-founder-bbe16ee11dfe)
