@@ -116,14 +116,6 @@
       <element xsi:type="archimate:Value" name="Growth" id="id-b68b3d2eb8094c95a0834007577d5774">
         <documentation>We support continuous learning and growth for both our customers and our team, fostering an environment where everyone can achieve their full potential.</documentation>
       </element>
-      <element xsi:type="archimate:Outcome" name="Increased student enrollment" id="id-eefcbd50c6d24052bdd211828418ed9c"/>
-      <element xsi:type="archimate:Outcome" name="Improved pass rates for driving tests" id="id-f0e5681f1cc64e86b5cf6959eff7d66b"/>
-      <element xsi:type="archimate:Outcome" name="Higher student satisfaction scores (NPS)" id="id-ba0128e595b2422d8f817c96de651ecb"/>
-      <element xsi:type="archimate:Outcome" name="Enhanced learning outcomes through personalized modules" id="id-4cc183749c164e64a044b917a5a3db69"/>
-      <element xsi:type="archimate:Constraint" name="Budget limitations for developing new features" id="id-03c88acba93341f69b646b1942ab9551"/>
-      <element xsi:type="archimate:Constraint" name="Regulatory constraints on curriculum content" id="id-5eefa481930e48d8acfb82937ddc1ee4"/>
-      <element xsi:type="archimate:Constraint" name="Technological limitations of current platform" id="id-4770b3a118f7479095ddaaecdc76e91a"/>
-      <element xsi:type="archimate:Constraint" name="Limited availability of qualified instructors" id="id-926da334f31f4fac8e78d3506400c3ac"/>
     </folder>
     <folder name="Drivers" id="id-6a713fcf80264b8b8f9d3587719a19bc">
       <element xsi:type="archimate:Driver" name="Acquiring new customers" id="id-38e1600046bc4c7683f8976f0dc90a7d"/>
