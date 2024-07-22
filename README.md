@@ -1,4 +1,7 @@
 # EA-SaaSDrivingSchool
 Enterprise Architecture on SaaS Driving School
 
-## Repository contains all the assets related to the blog posts published on Medium.com
+## Posts published on Medium.com
+
+## Viewpoints
+[Organization Viewpoint — Driving School SaaS Platform](https://medium.com/p/2e22fcc54fd5)
