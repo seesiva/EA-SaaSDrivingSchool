@@ -8,6 +8,7 @@ Enterprise Architecture on SaaS Driving School
 * [Business Capabilities components](https://seesiva.medium.com/business-capabilities-components-31cab08b9b5d)
 * [SaaS App Capabilities: A TOGAF-Based Stratification for Stakeholder Understanding](https://medium.com/@seesiva/driving-school-saas-app-capabilities-a-togaf-based-stratification-for-stakeholder-understanding-1eb3fcd26211)
 * [Business Capability Heatmap — Example from SaaS Driving School context](https://medium.com/@seesiva/business-capability-heatmap-fad0563909cb)
+* [Why do you need Enterprise Architecture(EA) for SaaS Platform ?— Analysis from Driving School SaaS Platform Context](https://seesiva.medium.com/why-do-you-need-enterprise-architecture-ea-for-saas-platform-461552ccb4e8)
 
 ## Viewpoints
 * [Organization Viewpoint — Driving School SaaS Platform](https://medium.com/p/2e22fcc54fd5)
